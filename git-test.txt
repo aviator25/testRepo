@@ -1,0 +1,13 @@
+Git Bash:
+
+Bash is a Unix shell and command language, and is the default shell on Linux (Ubuntu etc.) and OS X. In laymen terms, the git which runs on the terminal of any Linux device is known as git bash.
+
+Git CMD:
+
+(Command Line prompt) is the command-line interpreter on Windows operating systems. Sort of an equivalent to the bad-ass terminal in Linux, when you install git on windows and you are used to using command line, one uses cmd to run git commands.
+
+There is not at all any difference when it comes to git commands when you use either of the above. I would prefer the terminal over cmd any day, but if you like Windows for conventional reasons, I have used Cygwin to give me the terminal like feeling on Windows.
+
+Git GUI:
+
+Essentially aimed at people who don't like the coding on black screens a.k.a the command line. It provides a Graphical user interface to run the git commands you like for eg. if you are commiting some changes from your local repository to the staging queue, you would just have to click a button to commit the changes whereas the git command is 'git commit -m ""
